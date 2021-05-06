@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+.navbar, .footer{
+    background-color: #8AAFA8;
+    height: 60px;
+}
+
+.img-1 {
+    width: 616.02;
+    height: 296.02;
+}
+
+.img-2 {
+    width: 296.02;
+    height: 296.02;
+}
+
+.img-3{
+    width: 296.02;
+    height: 197.34;
+}
+
+.img-4{
+    width: 936.02;
+    height: 70.63;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
